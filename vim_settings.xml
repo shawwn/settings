@@ -1,0 +1,103 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1525127257106">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" timestamp="1525129122265">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="30" />
+        <mark key="^" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="36" column="5" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
+      <jump line="12" column="17" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">JHs8Q29kZT57YDwhRE9DVFlQRSBodG1sPgo8aHRtbD4KICA8Ym9keT4KICAgIFRoaXMgaXMgYSBzdGF0aWMgd2ViIGFwcC4KICA8L2JvZHk+CjwvaHRtbD5gfTwvQ29kZT59Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CiR7PENvZGU+e2A8IURPQ1RZUEUgaHRtbD4KPGh0bWw+CiAgPGJvZHk+CiAgICBUaGlzIGlzIGEgc3RhdGljIHdlYiBhcHAuCiAgPC9ib2R5Pgo8L2h0bWw+YH08L0NvZGU+fQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KiA=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PiBZb3UgY2FuIGFsc28gdXNlIGEgW05vZGUuanMgYXBwXShodHRwczovL2dpdGh1Yi5jb20vemVpdC9uZXh0Z3JhbSkgb3IgYW4gW2FwcCB3aXRoIGEgRG9ja2VyZmlsZV0oaHR0cHM6Ly9naXRodWIuY29tL25vdy1leGFtcGxlcy9jb2JvbC1oZWxsby13b3JsZCkgaW5zdGVhZCBvZiB0aGlzIHNpbXBsZSBzdGF0aWMgYXBwLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiR7PENvZGU+e2A8IURPQ1RZUEUgaHRtbD4KPGh0bWw+CiAgPGJvZHk+CiAgICBUaGlzIGlzIGEgc3RhdGljIHdlYiBhcHAuCiAgPC9ib2R5Pgo8L2h0bWw+YH08L0NvZGU+fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">VGhlIGJlc3Qgd2F5IHRvIGdldCBzdGFydGVkIHdpdGggTm93IG9uIHlvdXIgZGV2aWNlCmlzIFtOb3cgRGVza3RvcF0oaHR0cHM6Ly96ZWl0LmNvL2Rvd25sb2FkKSwgYSBtaW5pbWFsIGFwcGxpY2F0aW9uCnRoYXQgcnVucyBpbiB5b3VyIG1lbnViYXIgYW5kIGNvbWVzIHdpdGggdGhlIGZvbGxvd2luZyBmZWF0dXJlczoKCi0gSW5zdGFsbHMgW05vdyBDTEldKGh0dHBzOi8vemVpdC5jby9kb3dubG9hZCNjb21tYW5kLWxpbmUpIGFuZCBrZWVwcyBpdAp1cCB0byBkYXRlIGF1dG9tYXRpY2FsbHkgKHRoZSBjb21tYW5kIGxpbmUgaW50ZXJmYWNlIGZvciBpbnRlcmFjdGluZyB3aXRoIE5vdykuCi0gUHJvdmlkZXMgYSByZWFsdGltZSBmZWVkIG9mIHRoZSBhY3Rpdml0eQpvbiB5b3VyIGFjY291bnQgYW5kIHRlYW1zIHRoYXQgeW91J3ZlIGpvaW5lZC4KLSBMZXQncyB5b3UgZGVwbG95IGFueSBraW5kIG9mIGFwcGxpY2F0aW9uIG9yIGZpbGUgYnkKc2ltcGx5IGRyYWdnaW5nIGFuZCBkcm9wcGluZyBpdCBvbnRvIGl0cyBtZW51YmFyIGljb24gb3Igc2VsZWN0aW5nCml0IHVzaW5nIGEgZmlsZSBwaWNrZXIuCgojIyBTaWduaW5nIFVwCgpPbmNlIHlvdSd2ZSBkb3dubG9hZGVkIFtOb3cgRGVza3RvcF0oaHR0cHM6Ly96ZWl0LmNvL2Rvd25sb2FkKSBvcGVuIGl0IGFuZCBmb2xsb3cgdGhlCmluc3RydWN0aW9ucy4KCkFmdGVyIHlvdSd2ZSBjb21wbGV0ZWQgdGhlIHNpZ251cCBwcm9jZXNzICh5b3UgY2FuIGFsc28gdXNlIHRoZSBmb3JtCnRvIGxvZyBpbiksIGEgd2luZG93IHNob3VsZCBvcGVuIHdpdGggeW91ciBhY2NvdW50J3MgZXZlbnQgZmVlZCBpbnNpZGUuCgojIyBEZXBsb3ltZW50CgpOb3cgdGhhdCB3ZSdyZSBsb2dnZWQgaW4sIGxldCdzIGJlZ2luIHdpdGggZGVwbG95aW5nIGEKc2ltcGxlIHN0YXRpYyB3ZWIgc2l0ZS4KCkZpcnN0bHksIGNyZWF0ZSBhIGRpcmVjdG9yeSBjYWxsZWQgXGBteS13ZWItYXBwXGAgYW5kIGFkZCB0aGUgZm9sbG93aW5nIGNvbnRlbnQgdG8gYSBmaWxlIGNhbGxlZCBcYGluZGV4Lmh0bWxcYC4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">V2l0aCBOb3cncyBoZWxwLCB5b3UgY2FuIGRlcGxveSBhbmQgcHVibGlzaCBhbnkga2luZCBvZiB3ZWIgYXBwbGljYXRpb24gKG9yIHNlcnZpY2UpIGluCnVuZGVyIGZpdmUgbWludXRlcy4KClRoaXMgZ3VpZGUgd2lsbCBzaG93IHlvdSBob3cgdG8gZGVwbG95IHN1Y2ggYW4gYXBwLCBjb25uZWN0IGl0IHRvIGEKZG9tYWluIG5hbWUgb2YgeW91ciBjaG9pY2UgYW5kIGNvbmZpZ3VyZSBhbiBTU0wgY2VydGlmaWNhdGUuCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">KiA=</text>
+      </register>
+      <register name="/" type="4">
+        <text>terminal</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>terminal</last-search>
+      <last-offset />
+      <last-pattern>terminal</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>you can also</entry>
+        <entry>You can</entry>
+        <entry encoding="base64">PGNvZGU=</entry>
+        <entry>terminal</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>set tw=40</entry>
+        <entry>set tw=80</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
