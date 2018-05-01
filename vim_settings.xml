@@ -59,12 +59,12 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="45" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" timestamp="1525144358654">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="59" column="34" />
-        <mark key="]" line="59" column="45" />
-        <mark key="^" line="59" column="45" />
-        <mark key="." line="59" column="45" />
+      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" timestamp="1525148744761">
+        <mark key="'" line="70" column="79" />
+        <mark key="[" line="70" column="89" />
+        <mark key="]" line="70" column="89" />
+        <mark key="^" line="74" column="12" />
+        <mark key="." line="70" column="89" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" timestamp="1525132383003">
         <mark key="'" line="6" column="51" />
@@ -94,53 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="12" column="17" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="30" column="15" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="8" column="29" filename="$USER_HOME$/WebstormProjects/docs/components/header.js" />
-      <jump line="24" column="27" filename="$USER_HOME$/WebstormProjects/docs/components/header.js" />
-      <jump line="98" column="4" filename="$USER_HOME$/WebstormProjects/docs/components/header.js" />
-      <jump line="108" column="44" filename="$USER_HOME$/WebstormProjects/docs/components/header.js" />
-      <jump line="119" column="4" filename="$USER_HOME$/WebstormProjects/docs/components/header.js" />
-      <jump line="179" column="65" filename="$USER_HOME$/WebstormProjects/docs/components/header.js" />
-      <jump line="34" column="30" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/WebstormProjects/docs/lib/data/team.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/WebstormProjects/docs/lib/data/team.js" />
-      <jump line="15" column="17" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="10" column="17" filename="$USER_HOME$/WebstormProjects/docs/lib/data/team.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/WebstormProjects/docs/lib/data/team.js" />
-      <jump line="43" column="12" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="36" column="22" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="41" column="43" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="95" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="37" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="47" column="85" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="154" column="12" filename="$USER_HOME$/WebstormProjects/docs/lib/with-doc.js" />
-      <jump line="5" column="11" filename="$USER_HOME$/WebstormProjects/docs/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/docs/.gitignore" />
-      <jump line="6" column="51" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/WebstormProjects/docs/readme.md" />
-      <jump line="3" column="52" filename="$USER_HOME$/WebstormProjects/docs/readme.md" />
-      <jump line="0" column="8" filename="$USER_HOME$/WebstormProjects/docs/readme.md" />
-      <jump line="2" column="53" filename="$USER_HOME$/WebstormProjects/docs/readme.md" />
-      <jump line="4" column="0" filename="$USER_HOME$/WebstormProjects/docs/readme.md" />
-      <jump line="8" column="0" filename="$USER_HOME$/WebstormProjects/docs/readme.md" />
-      <jump line="10" column="35" filename="$USER_HOME$/WebstormProjects/docs/readme.md" />
-      <jump line="36" column="58" filename="$USER_HOME$/WebstormProjects/docs/readme.md" />
-      <jump line="74" column="0" filename="$USER_HOME$/WebstormProjects/docs/readme.md" />
-      <jump line="133" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="3" column="9" filename="$USER_HOME$/WebstormProjects/docs/components/now/now.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/docs/components/now/now.js" />
-      <jump line="37" column="9" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="41" column="21" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="11" column="41" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="74" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="21" column="21" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="48" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -155,87 +108,476 @@
       <jump line="39" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="3" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="134" column="126" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="55" column="18" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="82" column="4" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="41" column="218" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/migrate-your-app.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="79" column="56" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="95" column="12" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="81" column="58" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="90" column="13" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="100" column="13" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="131" column="13" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="138" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="147" column="13" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="162" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="127" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="102" column="55" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="112" column="83" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="114" column="30" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="116" column="26" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="181" column="32" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="204" column="12" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="194" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="168" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="201" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="155" column="42" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="200" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="169" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="58" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="130" column="101" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="146" column="111" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="120" column="62" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="78" column="33" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="160" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="62" column="44" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="66" column="96" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="80" column="71" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="82" column="18" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="84" column="14" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="88" column="19" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="87" column="34" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="99" column="51" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="103" column="16" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="118" column="66" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="121" column="139" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="111" column="44" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="119" column="31" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="60" column="34" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="56" column="18" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="64" column="72" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="68" column="67" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="74" column="31" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="101" column="39" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="107" column="26" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="109" column="26" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="83" column="50" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="77" column="24" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="75" column="48" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="93" column="100" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="85" column="33" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="113" column="17" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="104" column="48" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="27" column="35" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="37" column="1" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="70" column="79" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="115" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="4">
-        <text>book</text>
+        <text>\</text>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="115" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="55" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="57" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="55" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="57" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>book</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>Image</text>
+        <text>\</text>
       </register>
       <register name="0" type="4">
-        <text>https://raw.githubusercontent.com/niltree/book/master</text>
+        <text>static/book/.gitbook/assets/image%20%284%29.png</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzcmM9e2Fzc2V0KGBib29rLy5naXRib29rL2Fzc2V0cy9pbWFnZSAoMSkucG5nYCl9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">JHs8SW1hZ2UKICBzcmM9e2Fzc2V0KGAke0lNQUdFX0FTU0VUU19VUkx9L2RvY3MvZml2ZS1taW51dGUtZ3VpZGUvaW1hZ2UxLnBuZ2ApfQogIHdpZHRoPXs2NTB9CiAgaGVpZ2h0PXs2NTAgKiA3MjEgLyA4OTZ9CiAgY2FwdGlvbj0iaHR0cHM6Ly90aHJlZWpzLm9yZy9leGFtcGxlcyIKLz59Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiR7PFRlcm1pbmFsSW5wdXQ+bnBtIGkgLWcgbmlsdHJlZTwvVGVybWluYWxJbnB1dD59Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgQ29kZSB9IGZyb20gJy4uLy4uLy4uL2NvbXBvbmVudHMvdGV4dC9jb2RlJwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CgpBZnRlciB5b3UgaGF2ZSBhZGRlZCB0aGUgY29udGVudCwgdmlzaXQgdGhlIFxgbXktd2ViLWFwcFxgIGRpcmVjdG9yeSB1c2luZyBhIHRlcm1pbmFsIGFuZCBydW4gdGhpcyBjb21tYW5kOgoKJHs8VGVybWluYWxJbnB1dD5ub3c8L1Rlcm1pbmFsSW5wdXQ+fQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Pgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">JHs8SW1hZ2UgY2FwdGlvbj0iIgogICAgICAgICBzcmM9InN0YXRpYy9ib29rLy5naXRib29rL2Fzc2V0cy9pbWFnZSUyMCUyODQlMjkucG5nIgogICAgICAgICB3aWR0aD17NjUwfQogICAgICAgICBoZWlnaHQ9ezIyMH0KICAgICAgICAgLz59IAo=</text>
+      </register>
+      <register name="t" type="4">
+        <keys>
+          <key char="115" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">JHs8SW1hZ2UgY2FwdGlvbj0iIgogICAgICAgICBzcmM9InN0YXRpYy9ib29rLy5naXRib29rL2Fzc2V0cy9pbWFnZSUyMCUyODQlMjkucG5nIgogICAgICAgICB3aWR0aD17NjUwfQogICAgICAgICBoZWlnaHQ9ezIyMH0KICAgICAgICAgLz59IAoKJHs8SW1hZ2UgY2FwdGlvbj0iWyIKICAgICAgICAgc3JjPSJzdGF0aWMvYm9vay8uZ2l0Ym9vay9hc3NldHMvaW1hZ2UlMjAlMjgzJTI5LnBuZyIKICAgICAgICAgd2lkdGg9ezY1MH0KICAgICAgICAgaGVpZ2h0PXs2NTAgKiA3MjEgLyA4OTZ9CiAgICAgICAgIC8+fSAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgd2lkdGg9ezY1MH0KICAgICAgICAgaGVpZ2h0PXs2NTAgKiA3MjEgLyA4OTZ9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cj4gUmlnaHQtY2xpY2sgb24gUG93ZXJTaGVsbCBhbmQgcnVuICJhcyBBZG1pbmlzdHJhdG9yIiwgdGhlbiBwYXN0ZSB0aGUgYWJvdmUgY29tbWFuZC4K</text>
+        <text encoding="base64">ClRoaXMgY292ZXJzIHRoZSBiYXNpY3Mgb2YgdXNpbmcgTmlsdHJlZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHs8VGVybWluYWxPdXRwdXQ+CiAgICA8cHJlPgogICAgICB7YG5wbSBpbnN0YWxsIC0tZ2xvYmFsIC0tcHJvZHVjdGlvbiB3aW5kb3dzLWJ1aWxkLXRvb2xzYH0KICAgIDwvcHJlPgo8L1Rlcm1pbmFsT3V0cHV0Pn0K</text>
+        <text encoding="base64">eyUgaGludCBzdHlsZT0iaW5mbyIgJX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8L3ByZT4K</text>
+        <text encoding="base64">eyUgZW5kaGludCAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Image</last-search>
+      <last-search>\</last-search>
       <last-offset />
-      <last-pattern>Image</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>\</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Jmd0</entry>
-        <entry>terminal</entry>
-        <entry>If you</entry>
-        <entry>windows bu</entry>
-        <entry>right cli</entry>
-        <entry>Right</entry>
-        <entry encoding="base64">YXNzdW1lIA==</entry>
-        <entry>code</entry>
-        <entry>ZEIT</entry>
-        <entry>Zeit</entry>
-        <entry>zeit</entry>
-        <entry>No</entry>
-        <entry>now</entry>
-        <entry encoding="base64">PE5vdw==</entry>
-        <entry>niltree</entry>
+        <entry>!\$</entry>
+        <entry>src=</entry>
+        <entry>src={asset</entry>
+        <entry>\\(</entry>
+        <entry>\\[()]</entry>
+        <entry>examples</entry>
+        <entry>.gitbook</entry>
+        <entry>`</entry>
+        <entry>\.gitbook</entry>
+        <entry>static\/book</entry>
+        <entry>(stati</entry>
         <entry>Niltree</entry>
-        <entry encoding="base64">XDx1XD4=</entry>
-        <entry>step 3</entry>
-        <entry>-to-now</entry>
-        <entry>Image</entry>
+        <entry>try again</entry>
+        <entry>![</entry>
+        <entry>command pro</entry>
+        <entry>Pressing</entry>
+        <entry>asset</entry>
+        <entry>examples page</entry>
+        <entry>page using</entry>
+        <entry>\</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
