@@ -16,9 +16,11 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/migrate-your-app.js" timestamp="1525130879491">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="128" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/migrate-your-app.js" timestamp="1525143081600">
+        <mark key="'" line="41" column="218" />
+        <mark key="[" line="41" column="235" />
+        <mark key="]" line="41" column="235" />
+        <mark key="." line="41" column="235" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/docs/components/header.js" timestamp="1525130295819">
         <mark key="'" line="179" column="65" />
@@ -57,12 +59,12 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="45" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" timestamp="1525133787571">
-        <mark key="'" line="23" column="46" />
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
+      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" timestamp="1525144358654">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="59" column="45" />
+        <mark key="^" line="59" column="45" />
+        <mark key="." line="59" column="45" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" timestamp="1525132383003">
         <mark key="'" line="6" column="51" />
@@ -71,10 +73,11 @@
         <mark key="^" line="47" column="90" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/server.js" timestamp="1525142115993">
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="46" column="32" />
-        <mark key="." line="46" column="32" />
+      <file name="$USER_HOME$/WebstormProjects/docs/server.js" timestamp="1525143897086">
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="47" />
+        <mark key="." line="36" column="47" />
+        <mark key="^" line="36" column="47" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/docs/components/now/now.js" timestamp="1525133460737">
         <mark key="'" line="0" column="0" />
@@ -82,6 +85,12 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/docs/env-config.js" timestamp="1525144343046">
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="8" column="61" />
+        <mark key="." line="8" column="64" />
+        <mark key="^" line="6" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -130,7 +139,6 @@
       <jump line="11" column="41" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="135" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="74" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="134" column="146" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="88" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="21" column="21" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -143,64 +151,71 @@
       <jump line="23" column="46" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="33" column="23" filename="$USER_HOME$/WebstormProjects/docs/pages/_document.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/_document.js" />
+      <jump line="36" column="7" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="39" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="134" column="126" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="55" column="18" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="82" column="4" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="41" column="218" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/migrate-your-app.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="79" column="56" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>book</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>book</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1XD4=</text>
+        <text>Image</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JHs8VGVybWluYWxJbnB1dD5ub3c8L1Rlcm1pbmFsSW5wdXQ+fQo=</text>
+      <register name="0" type="4">
+        <text>https://raw.githubusercontent.com/niltree/book/master</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29kZSB9IGZyb20gJy4uLy4uLy4uL2NvbXBvbmVudHMvdGV4dC9jb2RlJwo=</text>
+        <text encoding="base64">ICBzcmM9e2Fzc2V0KGBib29rLy5naXRib29rL2Fzc2V0cy9pbWFnZSAoMSkucG5nYCl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgpBZnRlciB5b3UgaGF2ZSBhZGRlZCB0aGUgY29udGVudCwgdmlzaXQgdGhlIFxgbXktd2ViLWFwcFxgIGRpcmVjdG9yeSB1c2luZyBhIHRlcm1pbmFsIGFuZCBydW4gdGhpcyBjb21tYW5kOgoKJHs8VGVybWluYWxJbnB1dD5ub3c8L1Rlcm1pbmFsSW5wdXQ+fQo=</text>
+        <text encoding="base64">JHs8SW1hZ2UKICBzcmM9e2Fzc2V0KGAke0lNQUdFX0FTU0VUU19VUkx9L2RvY3MvZml2ZS1taW51dGUtZ3VpZGUvaW1hZ2UxLnBuZ2ApfQogIHdpZHRoPXs2NTB9CiAgaGVpZ2h0PXs2NTAgKiA3MjEgLyA4OTZ9CiAgY2FwdGlvbj0iaHR0cHM6Ly90aHJlZWpzLm9yZy9leGFtcGxlcyIKLz59Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiR7PFRlcm1pbmFsSW5wdXQ+bnBtIGkgLWcgbmlsdHJlZTwvVGVybWluYWxJbnB1dD59Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cj4gUmlnaHQtY2xpY2sgb24gUG93ZXJTaGVsbCBhbmQgcnVuICJhcyBBZG1pbmlzdHJhdG9yIiwgdGhlbiBwYXN0ZSB0aGUgYWJvdmUgY29tbWFuZC4K</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29kZSB9IGZyb20gJy4uLy4uLy4uL2NvbXBvbmVudHMvdGV4dC9jb2RlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JHs8VGVybWluYWxPdXRwdXQ+CiAgICA8cHJlPgogICAgICB7YG5wbSBpbnN0YWxsIC0tZ2xvYmFsIC0tcHJvZHVjdGlvbiB3aW5kb3dzLWJ1aWxkLXRvb2xzYH0KICAgIDwvcHJlPgo8L1Rlcm1pbmFsT3V0cHV0Pn0K</text>
+        <text encoding="base64">CgpBZnRlciB5b3UgaGF2ZSBhZGRlZCB0aGUgY29udGVudCwgdmlzaXQgdGhlIFxgbXktd2ViLWFwcFxgIGRpcmVjdG9yeSB1c2luZyBhIHRlcm1pbmFsIGFuZCBydW4gdGhpcyBjb21tYW5kOgoKJHs8VGVybWluYWxJbnB1dD5ub3c8L1Rlcm1pbmFsSW5wdXQ+fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8L3ByZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBucG0gaW5zdGFsbCAtLWdsb2JhbCAtLXByb2R1Y3Rpb24gd2luZG93cy1idWlsZC10b29scwo=</text>
+        <text encoding="base64">Cj4gUmlnaHQtY2xpY2sgb24gUG93ZXJTaGVsbCBhbmQgcnVuICJhcyBBZG1pbmlzdHJhdG9yIiwgdGhlbiBwYXN0ZSB0aGUgYWJvdmUgY29tbWFuZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cHJlPgo=</text>
+        <text encoding="base64">JHs8VGVybWluYWxPdXRwdXQ+CiAgICA8cHJlPgogICAgICB7YG5wbSBpbnN0YWxsIC0tZ2xvYmFsIC0tcHJvZHVjdGlvbiB3aW5kb3dzLWJ1aWxkLXRvb2xzYH0KICAgIDwvcHJlPgo8L1Rlcm1pbmFsT3V0cHV0Pn0K</text>
       </register>
-      <register name="9" type="4">
-        <text>$ node --version
-v9.9.0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICA8L3ByZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1XD4=</last-search>
+      <last-search>Image</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1XD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>Image</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Logo</entry>
-        <entry encoding="base64">XDxMb2dvXD4=</entry>
-        <entry>asset</entry>
         <entry encoding="base64">Jmd0</entry>
         <entry>terminal</entry>
         <entry>If you</entry>
@@ -218,6 +233,9 @@ v9.9.0</text>
         <entry>niltree</entry>
         <entry>Niltree</entry>
         <entry encoding="base64">XDx1XD4=</entry>
+        <entry>step 3</entry>
+        <entry>-to-now</entry>
+        <entry>Image</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
