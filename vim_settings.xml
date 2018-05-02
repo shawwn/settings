@@ -31,12 +31,12 @@
         <mark key="^" line="64" column="42" />
         <mark key="." line="64" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/pages/_document.js" timestamp="1525138482561">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="35" column="49" />
-        <mark key="." line="35" column="49" />
-        <mark key="^" line="35" column="49" />
+      <file name="$USER_HOME$/WebstormProjects/docs/pages/_document.js" timestamp="1525290872682">
+        <mark key="'" line="31" column="40" />
+        <mark key="[" line="38" column="77" />
+        <mark key="]" line="38" column="79" />
+        <mark key="." line="38" column="79" />
+        <mark key="^" line="38" column="79" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/docs/.gitignore" timestamp="1525132309402">
         <mark key="'" line="0" column="0" />
@@ -95,7 +95,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="48" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="26" column="35" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="54" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -195,6 +194,7 @@
       <jump line="37" column="1" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="70" column="79" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="46" column="15" filename="$USER_HOME$/WebstormProjects/docs/server.js" />
+      <jump line="31" column="40" filename="$USER_HOME$/WebstormProjects/docs/pages/_document.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -255,7 +255,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>docs</text>
+        <text>p.js</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -467,10 +467,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>docs</text>
+        <text>p.js</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>p.js</text>
       </register>
       <register name="0" type="4">
         <text>static/book/.gitbook/assets/image%20%284%29.png</text>
@@ -551,15 +551,14 @@
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search>p.js</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>p.js</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>src=</entry>
         <entry>src={asset</entry>
         <entry>\\(</entry>
         <entry>\\[()]</entry>
@@ -579,6 +578,7 @@
         <entry>page using</entry>
         <entry>\</entry>
         <entry>http</entry>
+        <entry>p.js</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
