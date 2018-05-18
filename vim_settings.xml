@@ -48,7 +48,6 @@
       <file name="C:/gh/puppeteer/lib/Browser.js" timestamp="1525906647837">
         <mark key="'" line="75" column="53" />
       </file>
-      <file name="C:/gh/puppeteer/lib/Page.js" timestamp="1525907871603" />
       <file name="/JavaScript Console" timestamp="1525907434202">
         <mark key="[" line="0" column="0" />
       </file>
@@ -66,6 +65,7 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="45" />
       </file>
+      <file name="B:/med/webapp-clean-2018-05-18/webapp/web/modules/auth/sagas.js" timestamp="1526650953242" />
       <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" timestamp="1525148744761">
         <mark key="'" line="70" column="79" />
         <mark key="[" line="70" column="89" />
@@ -568,7 +568,7 @@
       <last-offset />
       <last-pattern>screenshot</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
