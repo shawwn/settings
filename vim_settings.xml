@@ -58,6 +58,9 @@
         <mark key="^" line="33" column="13" />
         <mark key="." line="33" column="13" />
       </file>
+      <file name="B:/med/webapp-clean-2018-05-18/webapp/api/services/popest.js" timestamp="1526938463565">
+        <mark key="'" line="19" column="4" />
+      </file>
       <file name="C:/gh/puppeteer/lib/Browser.js" timestamp="1525906647837">
         <mark key="'" line="75" column="53" />
       </file>
@@ -126,7 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="55" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="112" column="83" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="114" column="30" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="116" column="26" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -226,6 +228,7 @@
       <jump line="185" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="52" column="11" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="60" column="11" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="19" column="4" filename="B:/med/webapp-clean-2018-05-18/webapp/api/services/popest.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
