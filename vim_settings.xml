@@ -25,8 +25,12 @@
       <file name="$USER_HOME$/WebstormProjects/docs/components/header.js" timestamp="1525130295819">
         <mark key="'" line="179" column="65" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526871412242">
-        <mark key="'" line="173" column="4" />
+      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526926591522">
+        <mark key="'" line="43" column="2" />
+        <mark key="[" line="194" column="35" />
+        <mark key="]" line="195" column="14" />
+        <mark key="." line="195" column="14" />
+        <mark key="^" line="195" column="14" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/updating-now-cli.js" timestamp="1525130832714">
         <mark key="[" line="64" column="38" />
@@ -48,11 +52,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/.eslintrc" timestamp="1526868820990">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="33" column="27" />
-        <mark key="^" line="33" column="27" />
-        <mark key="." line="33" column="27" />
+      <file name="B:/sweetieverse/sweetieverse/.eslintrc" timestamp="1526925807701">
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="33" column="13" />
+        <mark key="^" line="33" column="13" />
+        <mark key="." line="33" column="13" />
       </file>
       <file name="C:/gh/puppeteer/lib/Browser.js" timestamp="1525906647837">
         <mark key="'" line="75" column="53" />
@@ -117,12 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="7" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="39" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="134" column="126" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="41" column="218" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/migrate-your-app.js" />
       <jump line="79" column="56" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="95" column="12" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="81" column="58" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -217,6 +215,12 @@
       <jump line="144" column="32" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="22" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="173" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="29" column="21" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="33" column="5" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="82" column="15" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="192" column="15" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="1" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="43" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -276,8 +280,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>js</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5wbGF5ZQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -489,22 +493,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>js</text>
+        <text>eles</text>
       </register>
       <register name="/" type="4">
-        <text>targetRot</text>
+        <text>players</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsncC5waHAnXSk7CiAgICAgICAgICAgICAgX3BhcS5wdXNoKFsnc2V0U2l0ZUlkJywgJzEnXSk7CiAgICAgICAgICAgICAgdmFyIGQ9ZG9jdW1lbnQsIGc9ZC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSwgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgICAgICAgICAgICBnLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7IGcuYXN5bmM9dHJ1ZTsgZy5kZWZlcj10cnVlOyBnLnNyYz11KydwLmpzJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpO2AKICAgICAgICAgICAgfX0KICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICBpbml0UGxheWVycygpIHsKICAgIGNvbnN0IHBsYXllcnMgPSBbXTsKICAgIGNvbnN0IG51bVBsYXllcnMgPSAyOyAvLyBub3JtYWxseSBnZXQgdGhpcyBmcm9tIHRoaXMucHJvcHMucGxheWVycy5sZW5ndGggb3Igc29tZXRoaW5nCiAgICBmb3IgKGxldCBpID0gMDsgaSA8IG51bVBsYXllcnM7IGkgKz0gMSkgewogICAgICBwbGF5ZXJzLnB1c2gobmV3IFBsYXllck9iamVjdCh0aGlzLnNjZW5lKSk7CiAgICB9CiAgICB0aGlzLnNldFN0YXRlKHsgcGxheWVycyB9KTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsncC5waHAnXSk7CiAgICAgICAgICAgICAgX3BhcS5wdXNoKFsnc2V0U2l0ZUlkJywgJzEnXSk7CiAgICAgICAgICAgICAgdmFyIGQ9ZG9jdW1lbnQsIGc9ZC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSwgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgICAgICAgICAgICBnLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7IGcuYXN5bmM9dHJ1ZTsgZy5kZWZlcj10cnVlOyBnLnNyYz11KydwLmpzJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpO2AKICAgICAgICAgICAgfX0KICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wbGF5ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgICAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsnanMvJ10pOwogICAgICAgICAgICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgICAgICAgICAgIHZhciBkPWRvY3VtZW50LCBnPWQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JyksIHM9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgICAgICAgZy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOyBnLmFzeW5jPXRydWU7IGcuZGVmZXI9dHJ1ZTsgZy5zcmM9dSsnanMvJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpOwogICAgICAgICAgICBgCiAgICAgICAgICAgIH19CiAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsncC5waHAnXSk7CiAgICAgICAgICAgICAgX3BhcS5wdXNoKFsnc2V0U2l0ZUlkJywgJzEnXSk7CiAgICAgICAgICAgICAgdmFyIGQ9ZG9jdW1lbnQsIGc9ZC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSwgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgICAgICAgICAgICBnLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7IGcuYXN5bmM9dHJ1ZTsgZy5kZWZlcj10cnVlOyBnLnNyYz11KydwLmpzJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpO2AKICAgICAgICAgICAgfX0KICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxub3NjcmlwdD48cD48aW1nIHNyYz0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvanMvP2lkc2l0ZT0xJnJlYz0xIiBzdHlsZT0iYm9yZGVyOjA7IiBhbHQ9IiIgLz48L3A+PC9ub3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgICAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsnanMvJ10pOwogICAgICAgICAgICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgICAgICAgICAgIHZhciBkPWRvY3VtZW50LCBnPWQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JyksIHM9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgICAgICAgZy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOyBnLmFzeW5jPXRydWU7IGcuZGVmZXI9dHJ1ZTsgZy5zcmM9dSsnanMvJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpOwogICAgICAgICAgICBgCiAgICAgICAgICAgIH19CiAgICAgICAgICAvPgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIDxub3NjcmlwdD48cD48aW1nIHNyYz0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvanMvP2lkc2l0ZT0xJnJlYz0xIiBzdHlsZT0iYm9yZGVyOjA7IiBhbHQ9IiIgLz48L3A+PC9ub3NjcmlwdD4K</text>
@@ -557,32 +561,30 @@
         <text encoding="base64">ICAgICAgICAgIDxub3NjcmlwdD48cD48aW1nIHNyYz0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvanMvP2lkc2l0ZT0xJnJlYz0xIiBzdHlsZT0iYm9yZGVyOjA7IiBhbHQ9IiIgLz48L3A+PC9ub3NjcmlwdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxub3NjcmlwdD48cD48aW1nIHNyYz0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvanMvP2lkc2l0ZT0xJnJlYz0xIiBzdHlsZT0iYm9yZGVyOjA7IiBhbHQ9IiIgLz48L3A+PC9ub3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgX19odG1sOiBgCiAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogIC8qIHRyYWNrZXIgbWV0aG9kcyBsaWtlICJzZXRDdXN0b21EaW1lbnNpb24iIHNob3VsZCBiZSBjYWxsZWQgYmVmb3JlICJ0cmFja1BhZ2VWaWV3IiAqLwogIF9wYXEucHVzaChbInNldERvY3VtZW50VGl0bGUiLCBkb2N1bWVudC5kb21haW4gKyAiLyIgKyBkb2N1bWVudC50aXRsZV0pOwogIF9wYXEucHVzaChbInNldENvb2tpZURvbWFpbiIsICIqLm5pbHRyZWUuY29tIl0pOwogIF9wYXEucHVzaChbJ3RyYWNrUGFnZVZpZXcnXSk7CiAgX3BhcS5wdXNoKFsnZW5hYmxlTGlua1RyYWNraW5nJ10pOwogIChmdW5jdGlvbigpIHsKICAgIHZhciB1PSIvL25leHQubmlsdHJlZS5jb20vcC8iOwogICAgX3BhcS5wdXNoKFsnc2V0VHJhY2tlclVybCcsIHUrJ2pzLyddKTsKICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgdmFyIGQ9ZG9jdW1lbnQsIGc9ZC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSwgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgIGcudHlwZT0ndGV4dC9qYXZhc2NyaXB0JzsgZy5hc3luYz10cnVlOyBnLmRlZmVyPXRydWU7IGcuc3JjPXUrJ2pzLyc7IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZyxzKTsKICB9KSgpO2AKICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsnanMvJ10pOwogICAgICAgICAgICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgICAgICAgICAgIHZhciBkPWRvY3VtZW50LCBnPWQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JyksIHM9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgICAgICAgZy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOyBnLmFzeW5jPXRydWU7IGcuZGVmZXI9dHJ1ZTsgZy5zcmM9dSsnanMvJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpOwogICAgICAgICAgICBgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgX19odG1sOiBgCiAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogIC8qIHRyYWNrZXIgbWV0aG9kcyBsaWtlICJzZXRDdXN0b21EaW1lbnNpb24iIHNob3VsZCBiZSBjYWxsZWQgYmVmb3JlICJ0cmFja1BhZ2VWaWV3IiAqLwogIF9wYXEucHVzaChbInNldERvY3VtZW50VGl0bGUiLCBkb2N1bWVudC5kb21haW4gKyAiLyIgKyBkb2N1bWVudC50aXRsZV0pOwogIF9wYXEucHVzaChbInNldENvb2tpZURvbWFpbiIsICIqLm5pbHRyZWUuY29tIl0pOwogIF9wYXEucHVzaChbJ3RyYWNrUGFnZVZpZXcnXSk7CiAgX3BhcS5wdXNoKFsnZW5hYmxlTGlua1RyYWNraW5nJ10pOwogIChmdW5jdGlvbigpIHsKICAgIHZhciB1PSIvL25leHQubmlsdHJlZS5jb20vcC8iOwogICAgX3BhcS5wdXNoKFsnc2V0VHJhY2tlclVybCcsIHUrJ2pzLyddKTsKICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgdmFyIGQ9ZG9jdW1lbnQsIGc9ZC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSwgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgIGcudHlwZT0ndGV4dC9qYXZhc2NyaXB0JzsgZy5hc3luYz10cnVlOyBnLmRlZmVyPXRydWU7IGcuc3JjPXUrJ2pzLyc7IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZyxzKTsKICB9KSgpO2AKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsnanMvJ10pOwogICAgICAgICAgICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgICAgICAgICAgIHZhciBkPWRvY3VtZW50LCBnPWQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JyksIHM9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgICAgICAgZy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOyBnLmFzeW5jPXRydWU7IGcuZGVmZXI9dHJ1ZTsgZy5zcmM9dSsnanMvJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsnanMvJ10pOwogICAgICAgICAgICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgICAgICAgICAgIHZhciBkPWRvY3VtZW50LCBnPWQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JyksIHM9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgICAgICAgZy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOyBnLmFzeW5jPXRydWU7IGcuZGVmZXI9dHJ1ZTsgZy5zcmM9dSsnanMvJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpOwogICAgICAgICAgICBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>targetRot</last-search>
+      <last-search>players</last-search>
       <last-offset />
-      <last-pattern>targetRot</last-pattern>
+      <last-pattern>players</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>`</entry>
-        <entry>\.gitbook</entry>
         <entry>static\/book</entry>
         <entry>(stati</entry>
         <entry>Niltree</entry>
@@ -601,6 +603,8 @@
         <entry>screenshot</entry>
         <entry>target</entry>
         <entry>targetRot</entry>
+        <entry>Player</entry>
+        <entry>players</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
