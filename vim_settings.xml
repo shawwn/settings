@@ -25,6 +25,9 @@
       <file name="$USER_HOME$/WebstormProjects/docs/components/header.js" timestamp="1525130295819">
         <mark key="'" line="179" column="65" />
       </file>
+      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526871412242">
+        <mark key="'" line="173" column="4" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/updating-now-cli.js" timestamp="1525130832714">
         <mark key="[" line="64" column="38" />
         <mark key="]" line="64" column="42" />
@@ -113,10 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="55" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="23" column="46" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="33" column="23" filename="$USER_HOME$/WebstormProjects/docs/pages/_document.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/_document.js" />
       <jump line="36" column="7" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="39" column="2" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="3" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -213,6 +212,10 @@
       <jump line="42" column="69" filename="$USER_HOME$/WebstormProjects/docs/pages/_document.js" />
       <jump line="39" column="33" filename="$USER_HOME$/WebstormProjects/docs/pages/_document.js" />
       <jump line="75" column="53" filename="C:/gh/puppeteer/lib/Browser.js" />
+      <jump line="136" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="144" column="32" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="22" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="173" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -488,7 +491,7 @@
         <text>js</text>
       </register>
       <register name="/" type="4">
-        <text>screenshot</text>
+        <text>targetRot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsncC5waHAnXSk7CiAgICAgICAgICAgICAgX3BhcS5wdXNoKFsnc2V0U2l0ZUlkJywgJzEnXSk7CiAgICAgICAgICAgICAgdmFyIGQ9ZG9jdW1lbnQsIGc9ZC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSwgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgICAgICAgICAgICBnLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7IGcuYXN5bmM9dHJ1ZTsgZy5kZWZlcj10cnVlOyBnLnNyYz11KydwLmpzJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpO2AKICAgICAgICAgICAgfX0KICAgICAgICAgIC8+Cg==</text>
@@ -569,16 +572,14 @@
       </register>
     </registers>
     <search>
-      <last-search>screenshot</last-search>
+      <last-search>targetRot</last-search>
       <last-offset />
-      <last-pattern>screenshot</last-pattern>
+      <last-pattern>targetRot</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>examples</entry>
-        <entry>.gitbook</entry>
         <entry>`</entry>
         <entry>\.gitbook</entry>
         <entry>static\/book</entry>
@@ -597,6 +598,8 @@
         <entry>piwik</entry>
         <entry>src=</entry>
         <entry>screenshot</entry>
+        <entry>target</entry>
+        <entry>targetRot</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
