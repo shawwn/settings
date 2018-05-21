@@ -25,12 +25,12 @@
       <file name="$USER_HOME$/WebstormProjects/docs/components/header.js" timestamp="1525130295819">
         <mark key="'" line="179" column="65" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526926591522">
-        <mark key="'" line="43" column="2" />
-        <mark key="[" line="194" column="35" />
-        <mark key="]" line="195" column="14" />
-        <mark key="." line="195" column="14" />
-        <mark key="^" line="195" column="14" />
+      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526930680842">
+        <mark key="'" line="60" column="11" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="52" />
+        <mark key="^" line="153" column="46" />
+        <mark key="." line="153" column="46" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/updating-now-cli.js" timestamp="1525130832714">
         <mark key="[" line="64" column="38" />
@@ -78,7 +78,6 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="45" />
       </file>
-      <file name="B:/med/webapp-clean-2018-05-18/webapp/web/modules/achievements/reducer.js" timestamp="1526873569390" />
       <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" timestamp="1525148744761">
         <mark key="'" line="70" column="79" />
         <mark key="[" line="70" column="89" />
@@ -119,25 +118,14 @@
         <mark key="." line="8" column="64" />
         <mark key="^" line="6" column="66" />
       </file>
+      <file name="B:/sweetieverse/sweetieverse/pages/_document.js" timestamp="1526930245171">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="26" column="10" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="56" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="95" column="12" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="81" column="58" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="90" column="13" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="100" column="13" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="131" column="13" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="138" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="147" column="13" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="162" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="127" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="133" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="143" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="151" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="102" column="55" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="112" column="83" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="114" column="30" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -221,6 +209,23 @@
       <jump line="192" column="15" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="1" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="43" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="19" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="75" column="11" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="84" column="14" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="117" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="57" column="28" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="118" column="20" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="0" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="178" column="17" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="130" column="10" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="151" column="7" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="154" column="8" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="169" column="8" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="38" column="0" filename="B:/sweetieverse/sweetieverse/pages/_document.js" />
+      <jump line="0" column="0" filename="B:/sweetieverse/sweetieverse/pages/_document.js" />
+      <jump line="185" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="52" column="11" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="60" column="11" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -281,7 +286,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wbGF5ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9iamVjdE1lc2gub2JqZWN0LnNldEV4cHJlc3Npb24oJ1sxLDIsM10nKTsK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -493,25 +498,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eles</text>
+        <text>playerMesh</text>
       </register>
       <register name="/" type="4">
-        <text>players</text>
+        <text>initmulti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbml0UGxheWVycygpIHsKICAgIGNvbnN0IHBsYXllcnMgPSBbXTsKICAgIGNvbnN0IG51bVBsYXllcnMgPSAyOyAvLyBub3JtYWxseSBnZXQgdGhpcyBmcm9tIHRoaXMucHJvcHMucGxheWVycy5sZW5ndGggb3Igc29tZXRoaW5nCiAgICBmb3IgKGxldCBpID0gMDsgaSA8IG51bVBsYXllcnM7IGkgKz0gMSkgewogICAgICBwbGF5ZXJzLnB1c2gobmV3IFBsYXllck9iamVjdCh0aGlzLnNjZW5lKSk7CiAgICB9CiAgICB0aGlzLnNldFN0YXRlKHsgcGxheWVycyB9KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRpcihvYmplY3RNZXNoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wbGF5ZQo=</text>
+        <text encoding="base64">ICAgIGxldCB2b2ljZWNoYXRFbmFibGVkID0gZmFsc2U7CiAgICBjb25zdCBtcCA9ICgoKSA9PiB7CiAgICAgIGNvbnN0IHVybCA9IGdldFF1ZXJ5VmFyaWFibGUoJ20nKTsKICAgIH0pKCk7CiAgICBjb25zdCBfaXNNcE9wZW4gPSAoKSA9PiBCb29sZWFuKG1wICYmIG1wLmxvY2FsUGxheWVyTWVzaCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsncC5waHAnXSk7CiAgICAgICAgICAgICAgX3BhcS5wdXNoKFsnc2V0U2l0ZUlkJywgJzEnXSk7CiAgICAgICAgICAgICAgdmFyIGQ9ZG9jdW1lbnQsIGc9ZC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSwgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgICAgICAgICAgICBnLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7IGcuYXN5bmM9dHJ1ZTsgZy5kZWZlcj10cnVlOyBnLnNyYz11KydwLmpzJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpO2AKICAgICAgICAgICAgfX0KICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjdWJlTWVzaCA9IF9tYWtlQ3ViZU1lc2goKTsKICAgICAgICBvYmplY3RNZXNoLmFkZChjdWJlTWVzaCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgICAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsnanMvJ10pOwogICAgICAgICAgICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgICAgICAgICAgIHZhciBkPWRvY3VtZW50LCBnPWQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JyksIHM9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgICAgICAgZy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOyBnLmFzeW5jPXRydWU7IGcuZGVmZXI9dHJ1ZTsgZy5zcmM9dSsnanMvJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpOwogICAgICAgICAgICBgCiAgICAgICAgICAgIH19CiAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHVybCkgewogICAgICAgIGNvbnN0IF9tYWtlQ3ViZU1lc2ggPSAoKSA9PiB7CiAgICAgICAgICBjb25zdCBnZW9tZXRyeSA9IG5ldyBUSFJFRS5Cb3hCdWZmZXJHZW9tZXRyeSgwLjEsIDAuMSwgMC4xKTsKICAgICAgICAgIGNvbnN0IG1hdGVyaWFsID0gbmV3IFRIUkVFLk1lc2hQaG9uZ01hdGVyaWFsKHsKICAgICAgICAgICAgY29sb3I6IDB4RkYwMDAwLAogICAgICAgICAgfSk7CiAgICAgICAgICBjb25zdCBtZXNoID0gbmV3IFRIUkVFLk1lc2goZ2VvbWV0cnksIG1hdGVyaWFsKTsKICAgICAgICAgIHJldHVybiBtZXNoOwogICAgICAgIH07CiAgICAgICAgY29uc3QgeHJtcCA9IG5ldyBYUk11bHRpcGxheWVyKHVybCk7CiAgICAgICAgY29uc3QgeHJtcFRocmVlID0gbmV3IFhSTXVsdGlwbGF5ZXJUSFJFRSh4cm1wKTsKICAgICAgICB4cm1wVGhyZWUubG9jYWxQbGF5ZXJNZXNoID0gbnVsbDsKICAgICAgICB4cm1wVGhyZWUub25zeW5jID0gKCkgPT4gewogICAgICAgICAgY29uc3QgbG9jYWxQbGF5ZXJNZXNoID0geHJtcFRocmVlLmNyZWF0ZUxvY2FsUGxheWVyTWVzaCgpOwogICAgICAgICAgeHJtcFRocmVlLmxvY2FsUGxheWVyTWVzaCA9IGxvY2FsUGxheWVyTWVzaDsKICAgICAgICAgIGNvbnN0IG9iamVjdElkID0gMTsKICAgICAgICAgIGNvbnN0IG9iamVjdE1lc2hlcyA9IHhybXBUaHJlZS5nZXRPYmplY3RNZXNoZXMoKTsKICAgICAgICAgIGNvbnN0IG9iamVjdE1lc2ggPSBvYmplY3RNZXNoZXMuZmluZChvYmplY3RNZXNoID0+IG9iamVjdE1lc2gub2JqZWN0LmlkID09PSBvYmplY3RJZCk7CiAgICAgICAgICBpZiAoIW9iamVjdE1lc2gpIHsKICAgICAgICAgICAgY29uc3Qgb2JqZWN0TWVzaCA9IG1wLmNyZWF0ZU9iamVjdE1lc2gob2JqZWN0SWQpOwogICAgICAgICAgICBjb25zdCBjdWJlTWVzaCA9IF9tYWtlQ3ViZU1lc2goKTsKICAgICAgICAgICAgb2JqZWN0TWVzaC5hZGQoY3ViZU1lc2gpOwogICAgICAgICAgICBvYmplY3RNZXNoLm9iamVjdC5zZXRFeHByZXNzaW9uKCdbMSwyLDNdJyk7CiAgICAgICAgICAgIHNjZW5lLmFkZChvYmplY3RNZXNoKTsKICAgICAgICAgIH0KICAgICAgICB9OwogICAgICAgIHhybXBUaHJlZS5vbmNsb3NlID0gKCkgPT4gewogICAgICAgICAgY29uc29sZS5sb2coJ21wIGNsb3NlJyk7CiAgICAgICAgfTsKICAgICAgICB4cm1wVGhyZWUub25lcnJvciA9IGUgPT4gewogICAgICAgICAgY29uc29sZS53YXJuKCdtcCBlcnJvcicsIGUuZXJyb3IpOwogICAgICAgIH07CiAgICAgICAgeHJtcFRocmVlLm9ucGxheWVyZW50ZXIgPSBwbGF5ZXJNZXNoID0+IHsKICAgICAgICAgIGNvbnN0IHNraW5NZXNoID0gX21ha2VTa2luTWVzaChwbGF5ZXJNZXNoKTsKICAgICAgICAgIHBsYXllck1lc2guYWRkKHNraW5NZXNoKTsKICAgICAgICAgIHNjZW5lLmFkZChwbGF5ZXJNZXNoKTsKICAgICAgICB9OwogICAgICAgIHhybXBUaHJlZS5vbnBsYXllcmxlYXZlID0gcGxheWVyTWVzaCA9PiB7CiAgICAgICAgICBzY2VuZS5yZW1vdmUocGxheWVyTWVzaCk7CiAgICAgICAgfTsKICAgICAgICB4cm1wVGhyZWUub25vYmplY3RhZGQgPSBvYmplY3RNZXNoID0+IHsKICAgICAgICAgIGNvbnN0IGN1YmVNZXNoID0gX21ha2VDdWJlTWVzaCgpOwogICAgICAgICAgb2JqZWN0TWVzaC5hZGQoY3ViZU1lc2gpOwogICAgICAgICAgc2NlbmUuYWRkKG9iamVjdE1lc2gpOwogICAgICAgIH07CiAgICAgICAgeHJtcFRocmVlLm9ub2JqZWN0cmVtb3ZlID0gb2JqZWN0TWVzaCA9PiB7CiAgICAgICAgICBzY2VuZS5yZW1vdmUob2JqZWN0TWVzaCk7CiAgICAgICAgfTsKICAgICAgICByZXR1cm4geHJtcFRocmVlOwogICAgICB9IGVsc2UgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxub3NjcmlwdD48cD48aW1nIHNyYz0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvanMvP2lkc2l0ZT0xJnJlYz0xIiBzdHlsZT0iYm9yZGVyOjA7IiBhbHQ9IiIgLz48L3A+PC9ub3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pbml0TXVsdGlwbGF5ZXIoKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -558,39 +563,33 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxub3NjcmlwdD48cD48aW1nIHNyYz0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvanMvP2lkc2l0ZT0xJnJlYz0xIiBzdHlsZT0iYm9yZGVyOjA7IiBhbHQ9IiIgLz48L3A+PC9ub3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxub3NjcmlwdD48cD48aW1nIHNyYz0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvanMvP2lkc2l0ZT0xJnJlYz0xIiBzdHlsZT0iYm9yZGVyOjA7IiBhbHQ9IiIgLz48L3A+PC9ub3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wbGF5ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsncC5waHAnXSk7CiAgICAgICAgICAgICAgX3BhcS5wdXNoKFsnc2V0U2l0ZUlkJywgJzEnXSk7CiAgICAgICAgICAgICAgdmFyIGQ9ZG9jdW1lbnQsIGc9ZC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSwgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgICAgICAgICAgICBnLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7IGcuYXN5bmM9dHJ1ZTsgZy5kZWZlcj10cnVlOyBnLnNyYz11KydwLmpzJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpO2AKICAgICAgICAgICAgfX0KICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgX19odG1sOiBgCiAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogIC8qIHRyYWNrZXIgbWV0aG9kcyBsaWtlICJzZXRDdXN0b21EaW1lbnNpb24iIHNob3VsZCBiZSBjYWxsZWQgYmVmb3JlICJ0cmFja1BhZ2VWaWV3IiAqLwogIF9wYXEucHVzaChbInNldERvY3VtZW50VGl0bGUiLCBkb2N1bWVudC5kb21haW4gKyAiLyIgKyBkb2N1bWVudC50aXRsZV0pOwogIF9wYXEucHVzaChbInNldENvb2tpZURvbWFpbiIsICIqLm5pbHRyZWUuY29tIl0pOwogIF9wYXEucHVzaChbJ3RyYWNrUGFnZVZpZXcnXSk7CiAgX3BhcS5wdXNoKFsnZW5hYmxlTGlua1RyYWNraW5nJ10pOwogIChmdW5jdGlvbigpIHsKICAgIHZhciB1PSIvL25leHQubmlsdHJlZS5jb20vcC8iOwogICAgX3BhcS5wdXNoKFsnc2V0VHJhY2tlclVybCcsIHUrJ2pzLyddKTsKICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgdmFyIGQ9ZG9jdW1lbnQsIGc9ZC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSwgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgIGcudHlwZT0ndGV4dC9qYXZhc2NyaXB0JzsgZy5hc3luYz10cnVlOyBnLmRlZmVyPXRydWU7IGcuc3JjPXUrJ2pzLyc7IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZyxzKTsKICB9KSgpO2AKICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzY3JpcHQKICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICBfX2h0bWw6IGAKICAgICAgICAgICAgICAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsnanMvJ10pOwogICAgICAgICAgICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgICAgICAgICAgIHZhciBkPWRvY3VtZW50LCBnPWQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JyksIHM9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgICAgICAgZy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOyBnLmFzeW5jPXRydWU7IGcuZGVmZXI9dHJ1ZTsgZy5zcmM9dSsnanMvJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpOwogICAgICAgICAgICBgCiAgICAgICAgICAgIH19CiAgICAgICAgICAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgdmFyIF9wYXEgPSBfcGFxIHx8IFtdOwogICAgICAgICAgICBfcGFxLnB1c2goWyd0cmFja1BhZ2VWaWV3J10pOwogICAgICAgICAgICBfcGFxLnB1c2goWydlbmFibGVMaW5rVHJhY2tpbmcnXSk7CiAgICAgICAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB2YXIgdT0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvIjsKICAgICAgICAgICAgICBfcGFxLnB1c2goWydzZXRUcmFja2VyVXJsJywgdSsnanMvJ10pOwogICAgICAgICAgICAgIF9wYXEucHVzaChbJ3NldFNpdGVJZCcsICcxJ10pOwogICAgICAgICAgICAgIHZhciBkPWRvY3VtZW50LCBnPWQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JyksIHM9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgICAgICAgZy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOyBnLmFzeW5jPXRydWU7IGcuZGVmZXI9dHJ1ZTsgZy5zcmM9dSsnanMvJzsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnLHMpOwogICAgICAgICAgICB9KSgpOwogICAgICAgICAgICBgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxub3NjcmlwdD48cD48aW1nIHNyYz0iLy9uZXh0Lm5pbHRyZWUuY29tL3AvanMvP2lkc2l0ZT0xJnJlYz0xIiBzdHlsZT0iYm9yZGVyOjA7IiBhbHQ9IiIgLz48L3A+PC9ub3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>players</last-search>
+      <last-search>initmulti</last-search>
       <last-offset />
-      <last-pattern>players</last-pattern>
+      <last-pattern>initmulti</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>static\/book</entry>
-        <entry>(stati</entry>
-        <entry>Niltree</entry>
-        <entry>try again</entry>
-        <entry>![</entry>
-        <entry>command pro</entry>
         <entry>Pressing</entry>
         <entry>asset</entry>
         <entry>examples page</entry>
@@ -605,6 +604,12 @@
         <entry>targetRot</entry>
         <entry>Player</entry>
         <entry>players</entry>
+        <entry>initscene</entry>
+        <entry>initrenderer</entry>
+        <entry>THREE</entry>
+        <entry>xrmp</entry>
+        <entry>scene</entry>
+        <entry>initmulti</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
