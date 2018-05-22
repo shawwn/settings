@@ -3,41 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/docs/readme.md" timestamp="1525132632361">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="2" column="95" />
-        <mark key="]" line="2" column="98" />
-        <mark key="." line="2" column="98" />
-        <mark key="^" line="2" column="98" />
+      <file name="webpack:///./node_modules/redux-saga/es/internal/middleware.js" timestamp="1526949813135">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526947060618">
-        <mark key="'" line="228" column="12" />
-        <mark key="[" line="277" column="14" />
-        <mark key="]" line="277" column="14" />
-        <mark key="." line="277" column="14" />
-        <mark key="^" line="277" column="14" />
+      <file name="webpack:///./node_modules/react-redux/es/components/connectAdvanced.js" timestamp="1526949607387">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/updating-now-cli.js" timestamp="1525130832714">
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="64" column="42" />
-        <mark key="^" line="64" column="42" />
-        <mark key="." line="64" column="42" />
+      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526951382671">
+        <mark key="'" line="314" column="2" />
+        <mark key="[" line="322" column="31" />
+        <mark key="]" line="323" column="29" />
+        <mark key="." line="323" column="29" />
+        <mark key="^" line="323" column="29" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/pages/_document.js" timestamp="1525293506566">
-        <mark key="'" line="39" column="33" />
-        <mark key="[" line="49" column="44" />
-        <mark key="]" line="49" column="46" />
-        <mark key="." line="49" column="46" />
-        <mark key="^" line="49" column="46" />
-      </file>
-      <file name="B:/sweetieverse/sweetieverse/.eslintrc" timestamp="1526940768123">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="23" />
-        <mark key="^" line="33" column="23" />
-        <mark key="." line="33" column="23" />
-      </file>
-      <file name="B:/med/webapp-clean-2018-05-18/webapp/api/services/popest.js" timestamp="1526938463565">
-        <mark key="'" line="19" column="4" />
+      <file name="vm:63" timestamp="1526949809122">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" timestamp="1526944422570">
         <mark key="'" line="17" column="0" />
@@ -46,133 +26,66 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525907434202">
+      <file name="vm:88" timestamp="1526949603008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" timestamp="1526944692537">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="55" column="4" />
-        <mark key="^" line="55" column="4" />
-        <mark key="." line="55" column="4" />
-      </file>
-      <file name="C:/gh/puppeteer/examples/block-images.js" timestamp="1525907424029">
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="57" />
-        <mark key="^" line="21" column="57" />
-        <mark key="." line="21" column="57" />
-      </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/sagas.js" timestamp="1526940270476">
-        <mark key="'" line="10" column="26" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide-to-now.js" timestamp="1525132383003">
-        <mark key="'" line="6" column="51" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="47" column="90" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/components/now/now.js" timestamp="1525133460737">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1525131861154">
+      <file name="webpack:///./node_modules/react-dom/cjs/react-dom.development.js" timestamp="1526949604819">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/components/header.js" timestamp="1525130295819">
-        <mark key="'" line="179" column="65" />
+      <file name="/JavaScript Console" timestamp="1526951246264">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/api.js" timestamp="1526944429362">
+      <file name="webpack:///./node_modules/react-redux/es/utils/Subscription.js" timestamp="1526949609230">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" timestamp="1526949928025">
+        <mark key="'" line="11" column="41" />
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="29" />
+        <mark key="^" line="69" column="29" />
+        <mark key="." line="69" column="29" />
+      </file>
+      <file name="B:/sweetieverse/sweetieverse/modules/game/sagas.js" timestamp="1526950314933">
+        <mark key="'" line="11" column="23" />
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="64" column="4" />
+      </file>
+      <file name="webpack:///./node_modules/redux/es/redux.js" timestamp="1526949613459">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="webpack:///./node_modules/redux-saga/es/internal/channel.js" timestamp="1526949453079">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="webpack:///./node_modules/core-js/library/modules/_microtask.js" timestamp="1526949830881">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="B:/sweetieverse/sweetieverse/modules/game/api.js" timestamp="1526950443969">
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="3" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/.gitignore" timestamp="1525132309402">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="4" />
+      <file name="webpack:///./node_modules/react-hot-loader/dist/react-hot-loader.development.js" timestamp="1526950400643">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/actions.js" timestamp="1526944487154">
+      <file name="webpack:///./node_modules/redux-saga/es/internal/proc.js" timestamp="1526949620356">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="B:/sweetieverse/sweetieverse/modules/game/actions.js" timestamp="1526949520198">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="3" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="B:/med/webapp-clean-2018-05-18/webapp/web/modules/accounts/components/ManualAccountEntry/presenter.jsx" timestamp="1526939077212">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="C:/gh/puppeteer/lib/Browser.js" timestamp="1525906647837">
-        <mark key="'" line="75" column="53" />
-      </file>
-      <file name="B:/sweetieverse/sweetieverse/.next/dist/bundles/pages/game.js" timestamp="1526941742531">
-        <mark key="'" line="342" column="20" />
-        <mark key="[" line="343" column="33" />
-        <mark key="]" line="343" column="32" />
-        <mark key="^" line="343" column="32" />
-        <mark key="." line="343" column="32" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/lib/data/team.js" timestamp="1525130543875">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/lib/with-doc.js" timestamp="1525131814482">
-        <mark key="'" line="154" column="12" />
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-        <mark key="^" line="34" column="45" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" timestamp="1525148744761">
-        <mark key="'" line="70" column="79" />
-        <mark key="[" line="70" column="89" />
-        <mark key="]" line="70" column="89" />
-        <mark key="^" line="74" column="12" />
-        <mark key="." line="70" column="89" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/server.js" timestamp="1525151917713">
-        <mark key="'" line="46" column="15" />
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="36" column="35" />
-        <mark key="." line="36" column="35" />
-        <mark key="^" line="36" column="35" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/docs/env-config.js" timestamp="1525144343046">
-        <mark key="[" line="8" column="61" />
-        <mark key="]" line="8" column="61" />
-        <mark key="." line="8" column="64" />
-        <mark key="^" line="6" column="66" />
-      </file>
-      <file name="B:/sweetieverse/sweetieverse/pages/_document.js" timestamp="1526930245171">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="0" />
+      <file name="B:/sweetieverse/sweetieverse/modules/game/reducer.js" timestamp="1526950062735">
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="51" column="4" />
+        <mark key="." line="51" column="4" />
+        <mark key="^" line="51" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="19" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="87" column="34" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="99" column="51" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="103" column="16" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="118" column="66" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="121" column="139" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="108" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="111" column="44" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="119" column="31" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="60" column="34" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="56" column="18" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="64" column="72" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -264,6 +177,15 @@
       <jump line="241" column="12" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="228" column="12" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="46" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
+      <jump line="12" column="9" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
+      <jump line="24" column="39" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
+      <jump line="21" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
+      <jump line="11" column="41" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
+      <jump line="5" column="40" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="11" column="23" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="304" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="318" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="314" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -323,8 +245,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>40</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZW5kQ3ViZVVwZGF0ZSgpOwo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -536,25 +458,26 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>40</text>
+        <text>, cube</text>
       </register>
       <register name="/" type="4">
-        <text>loggame</text>
+        <text>grab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHtnYW1lcGFkczogZ3AsIHByZXNzZWR9ID0gdGhpcy5nZXRHYW1lcGFkRGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZW5kQ3ViZVVwZGF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5vYmplY3RUaHJvdHRsZXIpIHsKICAgICAgdGhpcy5vYmplY3RUaHJvdHRsZXIgPSB0aHJvdHRsZSgoKSA9PiB7CiAgICAgICAgY29uc3QgewogICAgICAgICAgcXVhdGVybmlvbiwKICAgICAgICAgIHBvc2l0aW9uLAogICAgICAgICAgc2NhbGUsCiAgICAgICAgfSA9IHRoaXMuZ3JvdXA7CgogICAgICAgIGNvbnN0IGN1YmVEYXRhID0gewogICAgICAgICAgcXVhdGVybmlvbjogeyB3OiBxdWF0ZXJuaW9uLncsIHg6IHF1YXRlcm5pb24ueCwgeTogcXVhdGVybmlvbi55LCB6OiBxdWF0ZXJuaW9uLnogfSwKICAgICAgICAgIHBvc2l0aW9uOiB7IHg6IHBvc2l0aW9uLngsIHk6IHBvc2l0aW9uLnksIHo6IHBvc2l0aW9uLnogfSwKICAgICAgICAgIHNjYWxlOiB7IHg6IHNjYWxlLngsIHk6IHNjYWxlLnksIHo6IHNjYWxlLnogfSwKICAgICAgICB9OwoKICAgICAgICB1cGRhdGVEYk9iamVjdCgnY3ViZScsIGN1YmVEYXRhKTsKICAgICAgfSwgMTAwMCAvIDQwKTsKICAgIH0KICAgIHRoaXMub2JqZWN0VGhyb3R0bGVyKCk7Cgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICghZ2FtZXBhZHMpIHJldHVybjsKCiAgICB0aGlzLnRocm90dGxlcigpOwo=</text>
+      <register name="2" type="4">
+        <text>{
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qIGVzbGludC1kaXNhYmxlICovCiAgICBjb25zdCBsb2dHYW1lcGFkcyA9ICgpID0+IHsKICAgICAgY29uc29sZS5sb2codXRpbC5pbnNwZWN0KHRoaXMucGxheWVyLmNvbnRyb2xsZXJNZXNoZXMsIHtzaG93SGlkZGVuOiBmYWxzZSwgZGVwdGg6IG51bGx9KSk7CiAgICB9CiAgICAvKiBlc2xpbnQtZW5hYmxlICovCiAgICBpZiAoIXRoaXMudGhyb3R0bGVyKSB0aGlzLnRocm90dGxlciA9IHRocm90dGxlKGxvZ0dhbWVwYWRzLCAxMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kaXIoZ2FtZXBhZHMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRyb2xsZXJNZXNoTG9hZGVyID0gbmV3IFRIUkVFLk9CSkxvYWRlcigpOwoKICAgIGNvbnRyb2xsZXJNZXNoTG9hZGVyLnNldFBhdGgoJ21vZGVscy92aXZlLWN0cmwvJyk7CgogICAgY29udHJvbGxlck1lc2hMb2FkZXIubG9hZCgndnJfY29udHJvbGxlcl92aXZlXzFfNS5vYmonLCAob2JqZWN0KSA9PiB7CiAgICAgIGNvbnN0IHRleHR1cmVMb2FkZXIgPSBuZXcgVEhSRUUuVGV4dHVyZUxvYWRlcigpOwogICAgICB0ZXh0dXJlTG9hZGVyLnNldFBhdGgoJ21vZGVscy92aXZlLWN0cmwvJyk7CiAgICAgIGNvbnN0IGNvbnRyb2xsZXJNZXNoID0gb2JqZWN0LmNoaWxkcmVuWzBdOwogICAgICBjb250cm9sbGVyTWVzaC5tYXRlcmlhbC5tYXAgPSB0ZXh0dXJlTG9hZGVyLmxvYWQoJ29uZXBvaW50Zml2ZV90ZXh0dXJlLnBuZycpOwogICAgICBjb250cm9sbGVyTWVzaC5tYXRlcmlhbC5zcGVjdWxhck1hcCA9IHRleHR1cmVMb2FkZXIubG9hZCgnb25lcG9pbnRmaXZlX3NwZWMucG5nJyk7CiAgICAgIG1lLnBsYXllci5jb250cm9sbGVyTWVzaGVzWzBdLmFkZChvYmplY3QuY2xvbmUoKSk7CiAgICAgIG1lLnBsYXllci5jb250cm9sbGVyTWVzaGVzWzFdLmFkZChvYmplY3QuY2xvbmUoKSk7CiAgICB9KTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -601,43 +524,36 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGRhdGluZyBnYW1lcGFkcyBpbiBmaXJlYmFzZT8/JywgZ3ApOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRyb2xsZXJNZXNoTG9hZGVyID0gbmV3IFRIUkVFLk9CSkxvYWRlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKFsiaGFzR2FtZXBhZERhdGEiLCBnYW1lcGFkcywgcHJlc3NlZF0pOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5pdFNjZW5lKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kaXIoZ2FtZXBhZHMpOwo=</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0KICAgICAgICAgIGlmIChwYWQuYnV0dG9ucykgewo=</text>
+        <text encoding="base64">CiAgY29tcG9uZW50V2lsbFVubW91bnQoKSB7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loggame</last-search>
+      <last-search>grab</last-search>
       <last-offset />
-      <last-pattern>loggame</last-pattern>
+      <last-pattern>grab</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>initrenderer</entry>
-        <entry>THREE</entry>
-        <entry>xrmp</entry>
-        <entry>initmulti</entry>
-        <entry>firebase</entry>
-        <entry>gamepad</entry>
-        <entry>singleplay</entry>
         <entry>pad</entry>
         <entry>gamepads</entry>
         <entry>navigator</entry>
@@ -651,6 +567,13 @@
         <entry>pressed</entry>
         <entry>console</entry>
         <entry>loggame</entry>
+        <entry>controllermeshload</entry>
+        <entry>object</entry>
+        <entry>emitter</entry>
+        <entry>updatedb</entry>
+        <entry>sendcu</entry>
+        <entry>thrott</entry>
+        <entry>grab</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
