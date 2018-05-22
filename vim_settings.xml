@@ -10,12 +10,12 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526944993450">
+      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526947060618">
         <mark key="'" line="228" column="12" />
         <mark key="[" line="277" column="14" />
-        <mark key="]" line="277" column="15" />
-        <mark key="." line="277" column="15" />
-        <mark key="^" line="277" column="15" />
+        <mark key="]" line="277" column="14" />
+        <mark key="." line="277" column="14" />
+        <mark key="^" line="277" column="14" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/updating-now-cli.js" timestamp="1525130832714">
         <mark key="[" line="64" column="38" />
@@ -324,7 +324,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>20</text>
+        <text>40</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -536,7 +536,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>40</text>
       </register>
       <register name="/" type="4">
         <text>loggame</text>
