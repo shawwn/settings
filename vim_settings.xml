@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="B:/exokit/exokit-clean/core.js" timestamp="1526967687535">
-        <mark key="'" line="3750" column="13" />
+      <file name="B:/exokit/exokit-clean/core.js" timestamp="1526969365946">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="12" column="6" />
       </file>
       <file name="webpack:///./node_modules/redux-saga/es/internal/middleware.js" timestamp="1526949813135">
         <mark key="[" line="0" column="0" />
@@ -35,6 +39,9 @@
       <file name="webpack:///./node_modules/react-dom/cjs/react-dom.development.js" timestamp="1526949604819">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1526969669476">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="webpack:///./node_modules/react-redux/es/utils/Subscription.js" timestamp="1526949609230">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,7 +58,13 @@
         <mark key="]" line="64" column="4" />
         <mark key="." line="64" column="4" />
       </file>
-      <file name="B:/exokit/exokit-clean/index.js" timestamp="1526967246077" />
+      <file name="B:/exokit/exokit-clean/index.js" timestamp="1526968983629">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="24" column="6" />
+      </file>
       <file name="webpack:///./node_modules/redux/es/redux.js" timestamp="1526949613459">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,20 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="50" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="77" column="24" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="75" column="48" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="96" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="93" column="100" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="85" column="33" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="113" column="17" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="104" column="48" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="136" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="27" column="35" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="9" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="37" column="1" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="70" column="79" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -187,6 +186,20 @@
       <jump line="3840" column="0" filename="B:/exokit/exokit-clean/core.js" />
       <jump line="3701" column="2" filename="B:/exokit/exokit-clean/core.js" />
       <jump line="3750" column="13" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="34" column="22" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="5" column="6" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="6" column="6" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="7" column="6" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="8" column="6" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="9" column="6" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="10" column="6" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="11" column="6" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="12" column="6" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="13" column="6" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="16" column="0" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="17" column="0" filename="B:/exokit/exokit-clean/index.js" />
+      <jump line="1504" column="22" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="2" column="0" filename="B:/exokit/exokit-clean/core.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -246,8 +259,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kQ3ViZVVwZGF0ZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -459,26 +472,26 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, cube</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>makewindowst</text>
+        <text>parse5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zZW5kQ3ViZVVwZGF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGlmICghdGhpcy5vYmplY3RUaHJvdHRsZXIpIHsKICAgICAgdGhpcy5vYmplY3RUaHJvdHRsZXIgPSB0aHJvdHRsZSgoKSA9PiB7CiAgICAgICAgY29uc3QgewogICAgICAgICAgcXVhdGVybmlvbiwKICAgICAgICAgIHBvc2l0aW9uLAogICAgICAgICAgc2NhbGUsCiAgICAgICAgfSA9IHRoaXMuZ3JvdXA7CgogICAgICAgIGNvbnN0IGN1YmVEYXRhID0gewogICAgICAgICAgcXVhdGVybmlvbjogeyB3OiBxdWF0ZXJuaW9uLncsIHg6IHF1YXRlcm5pb24ueCwgeTogcXVhdGVybmlvbi55LCB6OiBxdWF0ZXJuaW9uLnogfSwKICAgICAgICAgIHBvc2l0aW9uOiB7IHg6IHBvc2l0aW9uLngsIHk6IHBvc2l0aW9uLnksIHo6IHBvc2l0aW9uLnogfSwKICAgICAgICAgIHNjYWxlOiB7IHg6IHNjYWxlLngsIHk6IHNjYWxlLnksIHo6IHNjYWxlLnogfSwKICAgICAgICB9OwoKICAgICAgICB1cGRhdGVEYk9iamVjdCgnY3ViZScsIGN1YmVEYXRhKTsKICAgICAgfSwgMTAwMCAvIDQwKTsKICAgIH0KICAgIHRoaXMub2JqZWN0VGhyb3R0bGVyKCk7Cgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
   }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRyb2xsZXJNZXNoTG9hZGVyID0gbmV3IFRIUkVFLk9CSkxvYWRlcigpOwoKICAgIGNvbnRyb2xsZXJNZXNoTG9hZGVyLnNldFBhdGgoJ21vZGVscy92aXZlLWN0cmwvJyk7CgogICAgY29udHJvbGxlck1lc2hMb2FkZXIubG9hZCgndnJfY29udHJvbGxlcl92aXZlXzFfNS5vYmonLCAob2JqZWN0KSA9PiB7CiAgICAgIGNvbnN0IHRleHR1cmVMb2FkZXIgPSBuZXcgVEhSRUUuVGV4dHVyZUxvYWRlcigpOwogICAgICB0ZXh0dXJlTG9hZGVyLnNldFBhdGgoJ21vZGVscy92aXZlLWN0cmwvJyk7CiAgICAgIGNvbnN0IGNvbnRyb2xsZXJNZXNoID0gb2JqZWN0LmNoaWxkcmVuWzBdOwogICAgICBjb250cm9sbGVyTWVzaC5tYXRlcmlhbC5tYXAgPSB0ZXh0dXJlTG9hZGVyLmxvYWQoJ29uZXBvaW50Zml2ZV90ZXh0dXJlLnBuZycpOwogICAgICBjb250cm9sbGVyTWVzaC5tYXRlcmlhbC5zcGVjdWxhck1hcCA9IHRleHR1cmVMb2FkZXIubG9hZCgnb25lcG9pbnRmaXZlX3NwZWMucG5nJyk7CiAgICAgIG1lLnBsYXllci5jb250cm9sbGVyTWVzaGVzWzBdLmFkZChvYmplY3QuY2xvbmUoKSk7CiAgICAgIG1lLnBsYXllci5jb250cm9sbGVyTWVzaGVzWzFdLmFkZChvYmplY3QuY2xvbmUoKSk7CiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -525,41 +538,36 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRyb2xsZXJNZXNoTG9hZGVyID0gbmV3IFRIUkVFLk9CSkxvYWRlcigpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRyb2xsZXJNZXNoTG9hZGVyID0gbmV3IFRIUkVFLk9CSkxvYWRlcigpOwoKICAgIGNvbnRyb2xsZXJNZXNoTG9hZGVyLnNldFBhdGgoJ21vZGVscy92aXZlLWN0cmwvJyk7CgogICAgY29udHJvbGxlck1lc2hMb2FkZXIubG9hZCgndnJfY29udHJvbGxlcl92aXZlXzFfNS5vYmonLCAob2JqZWN0KSA9PiB7CiAgICAgIGNvbnN0IHRleHR1cmVMb2FkZXIgPSBuZXcgVEhSRUUuVGV4dHVyZUxvYWRlcigpOwogICAgICB0ZXh0dXJlTG9hZGVyLnNldFBhdGgoJ21vZGVscy92aXZlLWN0cmwvJyk7CiAgICAgIGNvbnN0IGNvbnRyb2xsZXJNZXNoID0gb2JqZWN0LmNoaWxkcmVuWzBdOwogICAgICBjb250cm9sbGVyTWVzaC5tYXRlcmlhbC5tYXAgPSB0ZXh0dXJlTG9hZGVyLmxvYWQoJ29uZXBvaW50Zml2ZV90ZXh0dXJlLnBuZycpOwogICAgICBjb250cm9sbGVyTWVzaC5tYXRlcmlhbC5zcGVjdWxhck1hcCA9IHRleHR1cmVMb2FkZXIubG9hZCgnb25lcG9pbnRmaXZlX3NwZWMucG5nJyk7CiAgICAgIG1lLnBsYXllci5jb250cm9sbGVyTWVzaGVzWzBdLmFkZChvYmplY3QuY2xvbmUoKSk7CiAgICAgIG1lLnBsYXllci5jb250cm9sbGVyTWVzaGVzWzFdLmFkZChvYmplY3QuY2xvbmUoKSk7CiAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5pdFNjZW5lKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRyb2xsZXJNZXNoTG9hZGVyID0gbmV3IFRIUkVFLk9CSkxvYWRlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5pdFNjZW5lKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgY29tcG9uZW50V2lsbFVubW91bnQoKSB7CiAgfQo=</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>makewindowst</last-search>
+      <last-search>parse5</last-search>
       <last-offset />
-      <last-pattern>makewindowst</last-pattern>
+      <last-pattern>parse5</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>controllermesh</entry>
-        <entry>userplayer</entry>
-        <entry>scene</entry>
-        <entry>setcanvasref</entry>
-        <entry>loggae</entry>
         <entry>updatedbgam</entry>
         <entry>pressed</entry>
         <entry>console</entry>
@@ -575,6 +583,11 @@
         <entry>require</entry>
         <entry>args.require</entry>
         <entry>makewindowst</entry>
+        <entry>setstyle</entry>
+        <entry>setStyle</entry>
+        <entry>Color</entry>
+        <entry encoding="base64">Y29uc3Qg</entry>
+        <entry>parse5</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
