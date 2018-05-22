@@ -9,11 +9,29 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
+      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/objects/Player/index.js" timestamp="1526978741939">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="vm:88" timestamp="1526949603008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack:///./node_modules/regenerator-runtime/runtime.js" timestamp="1526975270273">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="B:/sweetieverse/sweetieverse/modules/layout/components/Layout/presenter.jsx" timestamp="1526981156792">
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="37" />
+      </file>
+      <file name="B:/sweetieverse/sweetieverse/modules/game/selectors.js" timestamp="1526978811399">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
       </file>
       <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" timestamp="1526972914571">
         <mark key="'" line="14" column="10" />
@@ -22,12 +40,12 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/sagas.js" timestamp="1526977013754">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="33" column="32" />
+      <file name="B:/sweetieverse/sweetieverse/modules/game/sagas.js" timestamp="1526982430297">
+        <mark key="'" line="137" column="47" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="129" column="5" />
       </file>
       <file name="B:/exokit/exokit-clean/index.js" timestamp="1526968983629">
         <mark key="'" line="17" column="0" />
@@ -57,12 +75,24 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/reducer.js" timestamp="1526977093530">
+      <file name="B:/med/webapp-clean-2018-05-18/webapp/web/modules/accounts/components/ManualAccountEntry/presenter.jsx" timestamp="1526939077212">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="B:/sweetieverse/sweetieverse/modules/game/reducer.js" timestamp="1526978932729">
         <mark key="'" line="21" column="18" />
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="37" column="45" />
-        <mark key="." line="37" column="45" />
-        <mark key="^" line="37" column="31" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/docs/env-config.js" timestamp="1525144343046">
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="8" column="61" />
+        <mark key="." line="8" column="64" />
+        <mark key="^" line="6" column="66" />
       </file>
       <file name="B:/exokit/exokit-clean/core.js" timestamp="1526969365946">
         <mark key="'" line="2" column="0" />
@@ -77,34 +107,58 @@
       <file name="webpack:///./node_modules/react-redux/es/components/connectAdvanced.js" timestamp="1526949607387">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526973101405">
-        <mark key="'" line="277" column="2" />
-        <mark key="[" line="322" column="31" />
-        <mark key="]" line="323" column="29" />
-        <mark key="." line="323" column="29" />
-        <mark key="^" line="323" column="29" />
+      <file name="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" timestamp="1526982345552">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="264" column="39" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/docs/pages/docs/guides/updating-now-cli.js" timestamp="1525130832714">
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="64" column="42" />
+        <mark key="^" line="64" column="42" />
+        <mark key="." line="64" column="42" />
+      </file>
+      <file name="B:/sweetieverse/sweetieverse/.eslintrc" timestamp="1526940768123">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="23" />
       </file>
       <file name="vm:63" timestamp="1526949809122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" timestamp="1526944422570">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="31" column="6" />
-        <mark key="]" line="31" column="7" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="7" />
+      <file name="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" timestamp="1526981297919">
+        <mark key="'" line="33" column="18" />
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="9" />
+        <mark key="^" line="34" column="9" />
+        <mark key="." line="34" column="9" />
       </file>
       <file name="webpack:///./node_modules/react-dom/cjs/react-dom.development.js" timestamp="1526949604819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526976475627">
+      <file name="/JavaScript Console" timestamp="1526977986949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack:///./node_modules/react-redux/es/utils/Subscription.js" timestamp="1526949609230">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/gh/puppeteer/examples/block-images.js" timestamp="1525907424029">
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="21" column="57" />
+        <mark key="^" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+      </file>
       <file name="webpack:///./node_modules/redux/es/redux.js" timestamp="1526949613459">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525131861154">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="B:/sweetieverse/sweetieverse/modules/game/api.js" timestamp="1526950443969">
         <mark key="[" line="10" column="2" />
@@ -114,45 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="20" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="17" column="0" filename="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" />
-      <jump line="0" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
-      <jump line="1" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="233" column="12" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="234" column="18" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="44" column="30" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
-      <jump line="51" column="14" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
-      <jump line="342" column="20" filename="B:/sweetieverse/sweetieverse/.next/dist/bundles/pages/game.js" />
-      <jump line="340" column="24" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="322" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="30" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="41" column="9" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="95" column="15" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="123" column="6" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="326" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="49" column="10" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="59" column="22" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="94" column="14" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="332" column="8" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="82" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="305" column="40" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="0" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="61" column="28" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
-      <jump line="265" column="14" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="274" column="10" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="236" column="28" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="33" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="235" column="19" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="237" column="7" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="275" column="12" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="241" column="12" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="228" column="12" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
-      <jump line="46" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
-      <jump line="12" column="9" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
-      <jump line="24" column="39" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
-      <jump line="21" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
-      <jump line="11" column="41" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/components/Player/presenter.jsx" />
-      <jump line="5" column="40" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
       <jump line="304" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="318" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="314" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
@@ -206,7 +221,6 @@
       <jump line="50" column="6" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
       <jump line="51" column="19" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
       <jump line="61" column="18" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
-      <jump line="54" column="35" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
       <jump line="113" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
       <jump line="69" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
       <jump line="82" column="28" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
@@ -214,6 +228,46 @@
       <jump line="78" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
       <jump line="15" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
       <jump line="21" column="18" filename="B:/sweetieverse/sweetieverse/modules/game/reducer.js" />
+      <jump line="77" column="15" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="385" column="0" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="360" column="14" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="18" column="0" filename="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" />
+      <jump line="22" column="18" filename="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" />
+      <jump line="26" column="4" filename="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" />
+      <jump line="27" column="17" filename="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" />
+      <jump line="257" column="37" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="273" column="17" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="340" column="9" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="24" column="4" filename="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" />
+      <jump line="134" column="47" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="32" column="34" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="84" column="10" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="86" column="20" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="91" column="19" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="167" column="49" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="54" column="18" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="98" column="10" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="33" column="18" filename="B:/sweetieverse/sweetieverse/modules/core/hoc/withDb.js" />
+      <jump line="100" column="20" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="137" column="47" filename="B:/sweetieverse/sweetieverse/modules/game/sagas.js" />
+      <jump line="27" column="18" filename="B:/sweetieverse/sweetieverse/modules/layout/components/Layout/presenter.jsx" />
+      <jump line="28" column="15" filename="B:/sweetieverse/sweetieverse/modules/layout/components/Layout/presenter.jsx" />
+      <jump line="49" column="2" filename="B:/sweetieverse/sweetieverse/modules/layout/components/Layout/presenter.jsx" />
+      <jump line="31" column="9" filename="B:/sweetieverse/sweetieverse/modules/layout/components/Layout/presenter.jsx" />
+      <jump line="34" column="64" filename="B:/sweetieverse/sweetieverse/modules/layout/components/Layout/presenter.jsx" />
+      <jump line="35" column="12" filename="B:/sweetieverse/sweetieverse/modules/layout/components/Layout/presenter.jsx" />
+      <jump line="260" column="7" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="261" column="14" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="47" column="15" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="305" column="16" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="302" column="13" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="301" column="19" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="266" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="2" column="9" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="56" column="9" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="9" column="9" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="0" column="7" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="1" column="7" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -273,8 +327,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdzZXRVc2VyJywge2lkLCBkYXRhfSk7CiAgICAvLyBpZiAoIWdhbWVTdGF0ZS5tZS5pZCkgewogICAgLy8gICBnYW1lU3RhdGUubWUgPSB7aWQsIGRhdGF9CiAgICAvLyB9CiAgICAvLyB5aWVsZCBzcGF3bihldmVudENoYW5uZWxXYXRjaCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -486,25 +540,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>gp</text>
       </register>
       <register name="/" type="4">
-        <text>dir</text>
+        <text>qs</text>
       </register>
       <register name="0" type="4">
-        <text>eventChannelWatch</text>
+        <text>objectThrottler</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHlpZWxkIGRlbGF5KDUwMCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdzZXRVc2VyJywge2lkLCBkYXRhfSk7CiAgICAvLyBpZiAoIWdhbWVTdGF0ZS5tZS5pZCkgewogICAgLy8gICBnYW1lU3RhdGUubWUgPSB7aWQsIGRhdGF9CiAgICAvLyB9CiAgICAvLyB5aWVsZCBzcGF3bihldmVudENoYW5uZWxXYXRjaCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHNwYXduKGV2ZW50Q2hhbm5lbFdhdGNoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3F1ZXJ5LXN0cmluZyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgeWllbGQgc3Bhd24oZXZlbnRDaGFubmVsV2F0Y2gpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgdGhyb3R0bGUgfSBmcm9tICdsb2Rhc2gnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcGxheWVySWQgPSBwYXJzZS5zaW5nbGVQbGF5ZXJJZCh2YWwpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMudGhyb3R0bGVyID0gbnVsbDsKICAgIHRoaXMub2JqZWN0VGhyb3R0bGVyID0gbnVsbDsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -551,56 +605,56 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kaXIoWyJwbGF5ZXJzIiwge3BsYXllcklkLCBwbGF5ZXJNYXAsIHZhbH1dKTsK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmhhc0dhbWVwYWREYXRhKCkpIHsKICAgICAgY29uc3Qge2dhbWVwYWRzOiBncCwgcHJlc3NlZH0gPSB0aGlzLmdldEdhbWVwYWREYXRhKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8qKgogKiAgR2VuZXJhdG9yIGZ1bmN0aW9uIHRvIGxpc3RlbiBmb3Igc2FnYSBldmVudCBjaGFubmVsIGVtaXNzaW9ucwogKi8KZXhwb3J0IGZ1bmN0aW9uKiBldmVudENoYW5uZWxXYXRjaCgpIHsKICBjb25zdCBjaGFubmVsID0geWllbGQgY2FsbChmaXJlYmFzZVBsYXllcnNDaGFubmVsKTsKCiAgdHJ5IHsKICAgIHdoaWxlICh0cnVlKSB7CiAgICAgIGNvbnN0IHsgdHlwZSwgcGF5bG9hZCA9IHt9IH0gPSB5aWVsZCB0YWtlKGNoYW5uZWwpOwoKICAgICAgc3dpdGNoICh0eXBlKSB7CiAgICAgICAgY2FzZSBjb25zdGFudHMuRkJfUkVDRUlWRURfUExBWUVSUzoKICAgICAgICAgIHlpZWxkIHB1dChhY3Rpb25zLmFkZFBsYXllcihwYXlsb2FkLnBsYXllck1hcCwgcGF5bG9hZC5wbGF5ZXJJZCkpOwogICAgICAgICAgeWllbGQgZGVsYXkoNTAwKTsKICAgICAgICAgIGJyZWFrOwoKICAgICAgICBjYXNlIGNvbnN0YW50cy5GQl9SRUNFSVZFRF9PQkpFQ1RfREFUQToKICAgICAgICAgIHlpZWxkIHB1dChhY3Rpb25zLnVwZGF0ZUdhbWVPYmplY3QocGF5bG9hZC5vYmplY3QsIHBheWxvYWQuZGF0YSkpOwogICAgICAgICAgYnJlYWs7CgogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICB5aWVsZCBudWxsOwogICAgICAgICAgYnJlYWs7CiAgICAgIH0KICAgIH0KICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5sb2coZXJyb3IsIGVycm9yLm1lc3NhZ2UpOwogICAgeWllbGQgbnVsbDsKICB9Cn0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy99LCAxMDAwLzQwKTsKICAgIC8vfQogICAgLy90aGlzLnRocm90dGxlcigpOwoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqICBHZW5lcmF0b3IgZnVuY3Rpb24gdG8gbGlzdGVuIGZvciBzYWdhIGV2ZW50IGNoYW5uZWwgZW1pc3Npb25zCiAqLwpleHBvcnQgZnVuY3Rpb24qIGV2ZW50Q2hhbm5lbFdhdGNoKCkgewogIGNvbnN0IGNoYW5uZWwgPSB5aWVsZCBjYWxsKGZpcmViYXNlUGxheWVyc0NoYW5uZWwpOwoKICB0cnkgewogICAgd2hpbGUgKHRydWUpIHsKICAgICAgY29uc3QgeyB0eXBlLCBwYXlsb2FkID0ge30gfSA9IHlpZWxkIHRha2UoY2hhbm5lbCk7CgogICAgICBzd2l0Y2ggKHR5cGUpIHsKICAgICAgICBjYXNlIGNvbnN0YW50cy5GQl9SRUNFSVZFRF9QTEFZRVJTOgogICAgICAgICAgeWllbGQgcHV0KGFjdGlvbnMuYWRkUGxheWVyKHBheWxvYWQucGxheWVyTWFwLCBwYXlsb2FkLnBsYXllcklkKSk7CiAgICAgICAgICB5aWVsZCBkZWxheSg1MDApOwogICAgICAgICAgYnJlYWs7CgogICAgICAgIGNhc2UgY29uc3RhbnRzLkZCX1JFQ0VJVkVEX09CSkVDVF9EQVRBOgogICAgICAgICAgeWllbGQgcHV0KGFjdGlvbnMudXBkYXRlR2FtZU9iamVjdChwYXlsb2FkLm9iamVjdCwgcGF5bG9hZC5kYXRhKSk7CiAgICAgICAgICBicmVhazsKCiAgICAgICAgZGVmYXVsdDoKICAgICAgICAgIHlpZWxkIG51bGw7CiAgICAgICAgICBicmVhazsKICAgICAgfQogICAgfQogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICBjb25zb2xlLmxvZyhlcnJvciwgZXJyb3IubWVzc2FnZSk7CiAgICB5aWVsZCBudWxsOwogIH0KfQoK</text>
+        <text encoding="base64">ICAgIC8vaWYgKCF0aGlzLnRocm90dGxlcikgewogICAgICAvL3RoaXMudGhyb3R0bGVyID0gdGhyb3R0bGUoKCkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8qKgogKiAgR2VuZXJhdG9yIGZ1bmN0aW9uIHRvIGxpc3RlbiBmb3Igc2FnYSBldmVudCBjaGFubmVsIGVtaXNzaW9ucwogKi8KZXhwb3J0IGZ1bmN0aW9uKiBldmVudENoYW5uZWxXYXRjaCgpIHsKICBjb25zdCBjaGFubmVsID0geWllbGQgY2FsbChmaXJlYmFzZVBsYXllcnNDaGFubmVsKTsKCiAgdHJ5IHsKICAgIHdoaWxlICh0cnVlKSB7CiAgICAgIGNvbnN0IHsgdHlwZSwgcGF5bG9hZCA9IHt9IH0gPSB5aWVsZCB0YWtlKGNoYW5uZWwpOwoKICAgICAgc3dpdGNoICh0eXBlKSB7CiAgICAgICAgY2FzZSBjb25zdGFudHMuRkJfUkVDRUlWRURfUExBWUVSUzoKICAgICAgICAgIHlpZWxkIHB1dChhY3Rpb25zLmFkZFBsYXllcihwYXlsb2FkLnBsYXllck1hcCwgcGF5bG9hZC5wbGF5ZXJJZCkpOwogICAgICAgICAgeWllbGQgZGVsYXkoNTAwKTsKICAgICAgICAgIGJyZWFrOwoKICAgICAgICBjYXNlIGNvbnN0YW50cy5GQl9SRUNFSVZFRF9PQkpFQ1RfREFUQToKICAgICAgICAgIHlpZWxkIHB1dChhY3Rpb25zLnVwZGF0ZUdhbWVPYmplY3QocGF5bG9hZC5vYmplY3QsIHBheWxvYWQuZGF0YSkpOwogICAgICAgICAgYnJlYWs7CgogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICB5aWVsZCBudWxsOwogICAgICAgICAgYnJlYWs7CiAgICAgIH0KICAgIH0KICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5sb2coZXJyb3IsIGVycm9yLm1lc3NhZ2UpOwogICAgeWllbGQgbnVsbDsKICB9Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgLy99LCAxMDAwLzQwKTsKICAgIC8vfQogICAgLy90aGlzLm9iamVjdFRocm90dGxlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dir</last-search>
+      <last-search>qs</last-search>
       <last-offset />
-      <last-pattern>dir</last-pattern>
+      <last-pattern>qs</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>makewindowst</entry>
-        <entry>setstyle</entry>
-        <entry>setStyle</entry>
-        <entry>Color</entry>
-        <entry encoding="base64">Y29uc3Qg</entry>
-        <entry>parse5</entry>
-        <entry>me</entry>
-        <entry encoding="base64">bWVcPg==</entry>
-        <entry>sendcube</entry>
-        <entry>firebasePlay</entry>
-        <entry>logi</entry>
-        <entry>fb</entry>
-        <entry>firebase</entry>
-        <entry>channel</entry>
-        <entry>watch</entry>
-        <entry>eventchann</entry>
-        <entry>eventch</entry>
+        <entry>updateusergam</entry>
+        <entry encoding="base64">bm8g</entry>
+        <entry>updategamepads</entry>
+        <entry>this.props.set</entry>
+        <entry>login</entry>
+        <entry>email</entry>
         <entry>setuser</entry>
-        <entry>eventchannelwatch</entry>
-        <entry>dir</entry>
+        <entry>updatedb</entry>
+        <entry>updateusergamep</entry>
+        <entry>payload</entry>
+        <entry>payload.uid</entry>
+        <entry>handlesign</entry>
+        <entry>requestqu</entry>
+        <entry>gameob</entry>
+        <entry>throttler</entry>
+        <entry>sendcube</entry>
+        <entry>updatecube</entry>
+        <entry>cube</entry>
+        <entry>throttl</entry>
+        <entry>qs</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
