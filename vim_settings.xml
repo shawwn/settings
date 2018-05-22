@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="B:/exokit/exokit-clean/core.js" timestamp="1526967687535">
+        <mark key="'" line="3750" column="13" />
+      </file>
       <file name="webpack:///./node_modules/redux-saga/es/internal/middleware.js" timestamp="1526949813135">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,9 +35,6 @@
       <file name="webpack:///./node_modules/react-dom/cjs/react-dom.development.js" timestamp="1526949604819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526951246264">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="webpack:///./node_modules/react-redux/es/utils/Subscription.js" timestamp="1526949609230">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,6 +51,7 @@
         <mark key="]" line="64" column="4" />
         <mark key="." line="64" column="4" />
       </file>
+      <file name="B:/exokit/exokit-clean/index.js" timestamp="1526967246077" />
       <file name="webpack:///./node_modules/redux/es/redux.js" timestamp="1526949613459">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,15 +87,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="34" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="56" column="18" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="64" column="72" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="68" column="67" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="74" column="31" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="101" column="39" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="107" column="26" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="109" column="26" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
-      <jump line="106" column="0" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="83" column="50" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="77" column="24" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
       <jump line="75" column="48" filename="$USER_HOME$/WebstormProjects/docs/pages/docs/getting-started/five-minute-guide.js" />
@@ -186,6 +178,15 @@
       <jump line="304" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="318" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="314" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="111" column="17" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="1486" column="3" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="3363" column="15" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="3355" column="39" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="3362" column="9" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="3739" column="0" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="3840" column="0" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="3701" column="2" filename="B:/exokit/exokit-clean/core.js" />
+      <jump line="3750" column="13" filename="B:/exokit/exokit-clean/core.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -461,7 +462,7 @@
         <text>, cube</text>
       </register>
       <register name="/" type="4">
-        <text>grab</text>
+        <text>makewindowst</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zZW5kQ3ViZVVwZGF0ZSgpOwo=</text>
@@ -546,18 +547,14 @@
       </register>
     </registers>
     <search>
-      <last-search>grab</last-search>
+      <last-search>makewindowst</last-search>
       <last-offset />
-      <last-pattern>grab</last-pattern>
+      <last-pattern>makewindowst</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pad</entry>
-        <entry>gamepads</entry>
-        <entry>navigator</entry>
-        <entry>console.log</entry>
         <entry>controllermesh</entry>
         <entry>userplayer</entry>
         <entry>scene</entry>
@@ -574,6 +571,10 @@
         <entry>sendcu</entry>
         <entry>thrott</entry>
         <entry>grab</entry>
+        <entry>style</entry>
+        <entry>require</entry>
+        <entry>args.require</entry>
+        <entry>makewindowst</entry>
       </history-search>
       <history-cmd>
         <entry>set tw=40</entry>
