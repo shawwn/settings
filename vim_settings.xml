@@ -63,6 +63,9 @@
       <file name="webpack:///./node_modules/core-js/library/modules/_microtask.js" timestamp="1526949830881">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/docs/components/header.js" timestamp="1525130295819">
+        <mark key="'" line="179" column="65" />
+      </file>
       <file name="webpack:///./node_modules/react-hot-loader/dist/react-hot-loader.development.js" timestamp="1526950400643">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,12 +123,18 @@
         <mark key="^" line="64" column="42" />
         <mark key="." line="64" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/lottie-web/README.md" timestamp="1527040913601">
+        <mark key="'" line="223" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/lottie-web/player/js/renderers/CanvasRenderer.js" timestamp="1527040074682" />
       <file name="B:/sweetieverse/sweetieverse/.eslintrc" timestamp="1526940768123">
         <mark key="[" line="33" column="23" />
         <mark key="]" line="33" column="23" />
         <mark key="^" line="33" column="23" />
         <mark key="." line="33" column="23" />
+      </file>
+      <file name="B:/med/webapp-clean-2018-05-18/webapp/api/services/popest.js" timestamp="1526938463565">
+        <mark key="'" line="19" column="4" />
       </file>
       <file name="vm:63" timestamp="1526949809122">
         <mark key="[" line="0" column="0" />
@@ -167,9 +176,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="C:/gh/puppeteer/lib/Browser.js" timestamp="1525906647837">
+        <mark key="'" line="75" column="53" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="4" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="318" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="314" column="2" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="111" column="17" filename="B:/exokit/exokit-clean/core.js" />
@@ -269,6 +280,7 @@
       <jump line="9" column="9" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="0" column="7" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
       <jump line="1" column="7" filename="B:/sweetieverse/sweetieverse/modules/game/components/Game/presenter.jsx" />
+      <jump line="223" column="25" filename="$USER_HOME$/Documents/lottie-web/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
